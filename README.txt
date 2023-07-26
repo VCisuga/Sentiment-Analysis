@@ -1,0 +1,3 @@
+基于电商产品评论文本数据的情感分析
+Comment Data Collection.ipynb：电商网站商品数据爬取程序文件
+Sentiment Analysis.ipynb：情感分析程序文件
